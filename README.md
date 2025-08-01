@@ -66,7 +66,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="400" height="300" />
-  <img src="https://streak-stats.demolab.com?user=whitevshadow&theme=radical&hide_border=true" width="400" height="150" />
+  <img src="https://streak-stats.demolab.com?user=whitevshadow&theme=radical&hide_border=true" width="400" height="140" />
 </p>
 
 
