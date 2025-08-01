@@ -38,8 +38,12 @@
 
 <!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whitevshadow/whitevshadow/output/github-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whitevshadow/AnishBochare/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/whitevshadow/AnishBochare/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
