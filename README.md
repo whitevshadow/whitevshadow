@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Anish Bochare
-  <img src="https://in.pinterest.com/pin/825566175432602963/" width="35" height="35" />
+  <img src="https://tenor.com/en-GB/view/arc-reactor-iron-man-gif-26253062" width="35" height="35" />
 </h1>
 <h3 align="center">🚀 AI/ML Developer | 💻 Full Stack Enthusiast</h3>
 
