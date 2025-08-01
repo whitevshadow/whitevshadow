@@ -13,7 +13,7 @@
 - 🌱 I’m learning **Flutter**, **YOLOv8**, **LangChain**, and **LLM Fine-tuning**
 - 👯 I’m looking to collaborate on AI/ML & full-stack projects
 - 💬 Ask me about `Python`, `LLMs`, `Computer Vision`, `Flutter`
-- 📫 How to reach me: **[Email](mailto:yourmail@example.com)** | **[LinkedIn](https://linkedin.com/in/yourprofile)**
+- 📫 How to reach me: **[Email](mailto:anishbochare@gmail.com)** | **[LinkedIn](https://linkedin.com/in/anish-bochare-927729275)**
 
 ---
 
@@ -30,9 +30,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishbochare&show_icons=true&theme=radical" alt="anishbochare stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical" alt="anishbochare stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishbochare&theme=radical" alt="anishbochare streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitevshadow&theme=radical" alt="anishbochare streak" />
 </p>
 
 ---
