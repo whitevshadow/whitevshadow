@@ -29,10 +29,9 @@
 
 ---
 
-## 📈 Contribution Graph
-
+<!-- 📈 Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=whitevshadow&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitevshadow&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -40,8 +39,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/whitevshadow/whitevshadow/blob/output/github-snake.svg" />
-  <img src="https://github.com/whitevshadow/whitevshadow/blob/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/whitevshadow/whitevshadow/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -50,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitevshadow&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=whitevshadow&theme=radical&hide_border=true" />
 </p>
 
 ---
