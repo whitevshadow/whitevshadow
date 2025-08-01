@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Anish Bochare
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc0Y3l2Ym5kdHNjNzhvZ2JkbzkyZDNsNDBzMWE2cHJzeGZzYzc4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3975CZuyQgoNVuOA/giphy.gif" width="35" height="35" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M0bmZmbnBobXZrb2JpZ2NzbGY1dmRncnU0Y3VvN2R0bmQ2ZmJ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3pp9Y6LxBvoI/giphy.gif" width="35" height="35" />
 </h1>
 <h3 align="center">🚀 AI/ML Developer | 💻 Full Stack Enthusiast</h3>
 
