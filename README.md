@@ -13,10 +13,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **J.A.R.V.I.S AI Assistant**
-- 🌱 Learning: `Flutter`, `YOLOv8`, `LangChain`, `LLM Fine-tuning`
+- 🌱 Learning: `Flutter`, `YOLOv8`, `LangChain`, `LLM Fine-tuning`, `CyberSecurity`, `Big Data`
 - 🤝 Open to collaborating on AI/ML & Full Stack projects
-- 💬 Ask me about: `Python`, `LLMs`, `Computer Vision`, `Flutter`
+- 💬 Ask me about: `Python`, `LLMs`, `Computer Vision`, `AI & ML`
 - 📫 Reach out via [Email](mailto:anishbochare@gmail.com) | [LinkedIn](https://linkedin.com/in/anish-bochare-927729275)
 
 ---
@@ -61,7 +60,6 @@
 - 🐍 **Python** – 90%
 - 📱 **Flutter** – 75%
 - 🧠 **LLMs & LangChain** – 80%
-- 👁️ **OpenCV & YOLOv8** – 70%
 - 🌐 **Web Dev (HTML, CSS, JS)** – 70%
 
 ---
@@ -72,7 +70,7 @@ A human-like AI assistant that:
 
 - Listens to voice, understands gestures & emotions
 - Uses YOLOv8, LangChain, RAG, and OpenCV
-- Built using Python + Flutter + LLMs
+- Built using Python + LLMs
 
 <p align="center">
   <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="400"/>
