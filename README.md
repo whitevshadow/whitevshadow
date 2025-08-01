@@ -16,7 +16,19 @@
 - 🌱 Learning: `Flutter`, `YOLOv8`, `LangChain`, `LLM Fine-tuning`, `CyberSecurity`, `Big Data`
 - 🤝 Open to collaborating on AI/ML & Full Stack projects
 - 💬 Ask me about: `Python`, `LLMs`, `Computer Vision`, `AI & ML`
-- 📫 Reach out via [Email](mailto:anishbochare@gmail.com) | [LinkedIn](https://linkedin.com/in/anish-bochare-927729275)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/anish-bochare-927729275" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:anishbochare@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -86,17 +98,5 @@ A human-like AI assistant that:
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/anish-bochare-927729275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:anishbochare@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
-
----
 
 > _“The future belongs to those who build it.”_ – Tony Stark
