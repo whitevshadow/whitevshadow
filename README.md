@@ -65,7 +65,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="400" height="200" />
   <img src="https://streak-stats.demolab.com?user=whitevshadow&theme=radical&hide_border=true" width="400" height="180" />
 </p>
 
