@@ -1,11 +1,11 @@
 <h1 align="center">
   Hi 👋, I'm Anish Bochare
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M0bmZmbnBobXZrb2JpZ2NzbGY1dmRncnU0Y3VvN2R0bmQ2ZmJ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3pp9Y6LxBvoI/giphy.gif" width="35" height="35" />
 </h1>
 <h3 align="center">🚀 AI/ML Developer | 💻 Full Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anishbochare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M0bmZmbnBobXZrb2JpZ2NzbGY1dmRncnU0Y3VvN2R0bmQ2ZmJ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3pp9Y6LxBvoI/giphy.gif" width="35" height="35" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🌱 Learning: `Flutter`, `YOLOv8`, `LangChain`, `LLM Fine-tuning`, `CyberSecurity`, `Big Data`
 - 🤝 Open to collaborating on AI/ML & Full Stack projects
