@@ -5,7 +5,7 @@
 <h3 align="center">🚀 AI/ML Developer | 💻 Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishbochare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=whitevshadow&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
   
 </p>
 
