@@ -38,7 +38,7 @@
 
 <!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whitevshadow/whitevshadow/output/github-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/whitevshadow/whitevshadow/output/github-snake.svg" />
 </p>
 
 ---
