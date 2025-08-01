@@ -1,46 +1,48 @@
 <h1 align="center">Hi 👋, I'm Anish Bochare</h1>
-<h3 align="center">🚀 AI/ML Developer | 💻 Full Stack Enthusiast </h3>
+<h3 align="center">🚀 AI/ML Developer | 💻 Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishbochare&label=Profile%20views&color=0e75b6&style=flat" alt="anishbochare" />
+  <img src="https://komarev.com/ghpvc/?username=anishbochare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Developer;Flutter+%7C+LLMs+%7C+Computer+Vision;Building+J.A.R.V.I.S+Assistant;Let%E2%80%99s+Create+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Developer;Flutter+%7C+LLMs+%7C+Computer+Vision;Building+J.A.R.V.I.S+Assistant;Let%E2%80%99s+Create+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **J.A.R.V.I.S AI Assistant**
-- 🌱 I’m learning **Flutter**, **YOLOv8**, **LangChain**, and **LLM Fine-tuning**
-- 👯 I’m looking to collaborate on **AI/ML & full-stack projects**
+- 🔭 Currently building **J.A.R.V.I.S AI Assistant**
+- 🌱 Learning: `Flutter`, `YOLOv8`, `LangChain`, `LLM Fine-tuning`
+- 🤝 Open to collaborating on AI/ML & Full Stack projects
 - 💬 Ask me about: `Python`, `LLMs`, `Computer Vision`, `Flutter`
-- 📫 Reach me: [Email](mailto:anishbochare@gmail.com) | [LinkedIn](https://linkedin.com/in/anish-bochare-927729275)
+- 📫 Reach out via [Email](mailto:anishbochare@gmail.com) | [LinkedIn](https://linkedin.com/in/anish-bochare-927729275)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,flutter,tensorflow,opencv,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,flutter,tensorflow,opencv,html,css,react" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streaks
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitevshadow&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=whitevshadow&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
+## 📊 GitHub Analytics
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitevshadow&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ### ⚡ Fun Fact
 > 💡 I built a **human-like AI Assistant** that understands gestures, voice, camera input & emotions.  
@@ -87,7 +89,7 @@
 🔹 Flutter        █████████░░░░ 75%
 🔹 LLMs & LangChain █████████░░░░ 80%
 🔹 OpenCV & YOLO  ████████░░░░░░ 70%
-🔹 Web Dev (HTML, CSS, JS) ████████░░░░░░ 70%
+🔹 Web Dev (HTML, CSS, JS) ████████░░░░░░ 70% 
 
 
 
