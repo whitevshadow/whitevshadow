@@ -37,6 +37,15 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/whitevshadow/whitevshadow/blob/output/github-snake.svg" />
+  <img src="https://github.com/whitevshadow/whitevshadow/blob/output/github-snake-dark.svg" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -44,13 +53,41 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whitevshadow&theme=radical&hide_border=true" width="48%" />
 </p>
 
-### ⚡ Fun Fact
-> 💡 I built a **human-like AI Assistant** that understands gestures, voice, camera input & emotions.  
-> 🧠 It uses **multi-intent parsing, YOLOv8, RAG, and LangChain** under one system – like Jarvis from Iron Man.
+---
+
+## 🧠 Top Skills
+
+- 🐍 **Python** – 90%
+- 📱 **Flutter** – 75%
+- 🧠 **LLMs & LangChain** – 80%
+- 👁️ **OpenCV & YOLOv8** – 70%
+- 🌐 **Web Dev (HTML, CSS, JS)** – 70%
 
 ---
 
-### 🌐 Connect with Me
+## 🤖 J.A.R.V.I.S AI Assistant
+
+A human-like AI assistant that:
+
+- Listens to voice, understands gestures & emotions
+- Uses YOLOv8, LangChain, RAG, and OpenCV
+- Built using Python + Flutter + LLMs
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=whitevshadow&theme=onedark&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/anish-bochare-927729275" target="_blank">
@@ -63,35 +100,4 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whitevshadow&theme=onedark&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
-### 📽️ Project Preview (Optional GIF)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="300"/>
-</p>
-
----
-
-![github contribution snake dark](https://github.com/whitevshadow/whitevshadow/blob/output/github-snake-dark.svg)
-
-
-
-### 🧠 Top Skills
-
-```text
-🔹 Python         ████████████░░ 90%
-🔹 Flutter        █████████░░░░ 75%
-🔹 LLMs & LangChain █████████░░░░ 80%
-🔹 OpenCV & YOLO  ████████░░░░░░ 70%
-🔹 Web Dev (HTML, CSS, JS) ████████░░░░░░ 70% 
-
-
-
-
+> _“The future belongs to those who build it.”_ – Tony Stark
