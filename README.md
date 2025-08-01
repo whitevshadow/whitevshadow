@@ -36,10 +36,9 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
+<!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whitevshadow/whitevshadow/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/whitevshadow/whitevshadow/output/github-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
