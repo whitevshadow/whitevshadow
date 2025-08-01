@@ -85,7 +85,7 @@ A human-like AI assistant that:
 - Built using Python + LLMs
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZsZ25udXV3enM5eHFkaHdzeGt5ZnluN3lzY3Ywd3FlOWZ5Mjl2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yGjHDd32JUiUo/giphy.gif" width="400"/>
 </p>
 
 ---
