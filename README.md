@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=190&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=190&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Animated blue header banner saying Welcome to my GitHub" />
 </p>
 
 <h1 align="center">
@@ -8,12 +8,11 @@
 <h3 align="center">🚀 AI/ML Developer | 💻 Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishbochare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views anishbochare" />
   <img src="https://komarev.com/ghpvc/?username=whitevshadow&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views whitevshadow" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=465&lines=AI+%2F+ML+Developer;Flutter+%7C+LLMs+%7C+Computer+Vision;Building+J.A.R.V.I.S+Assistant;Let%27s+Create+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=465&lines=AI+%2F+ML+Developer;Flutter+%7C+LLMs+%7C+Computer+Vision;Building+J.A.R.V.I.S+Assistant;Let%27s+Create+Together+%F0%9F%9A%80" alt="Animated typing banner listing AI and ML focus areas" />
 </p>
 
 <p align="center">
@@ -46,6 +45,14 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>💌 Open to AI/ML collaborations, internships, and impactful product builds.</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:anishbochare@gmail.com">Let's build something together</a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -64,17 +71,27 @@
       <h3 align="center">🤖 J.A.R.V.I.S AI Assistant</h3>
       <p align="center">Human-like assistant using voice, gestures, and emotional context.</p>
       <p align="center">
+        <a href="https://github.com/whitevshadow/AI-Jarvis" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-View%20Code-111827?style=for-the-badge&logo=github" alt="AI Jarvis repository link" />
+        </a>
+      </p>
+      <p align="center">
         <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-2563eb?style=flat-square" alt="YOLOv8 badge" />
         <img src="https://img.shields.io/badge/LangChain-RAG%20Pipelines-0f766e?style=flat-square" alt="LangChain badge" />
         <img src="https://img.shields.io/badge/Python-LLM%20Workflows-f59e0b?style=flat-square" alt="Python badge" />
       </p>
       <p align="center">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZsZ25udXV3enM5eHFkaHdzeGt5ZnluN3lzY3Ywd3FlOWZ5Mjl2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yGjHDd32JUiUo/giphy.gif" width="300" alt="Jarvis gif" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZsZ25udXV3enM5eHFkaHdzeGt5ZnluN3lzY3Ywd3FlOWZ5Mjl2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yGjHDd32JUiUo/giphy.gif" width="300" alt="Animated visual representing the JARVIS assistant interface" />
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🎵 Music Recommendation System</h3>
       <p align="center">Big-data recommender system built for large-scale preference analysis.</p>
+      <p align="center">
+        <a href="https://github.com/whitevshadow/Music-Recommendation-Big-Data" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-View%20Code-111827?style=for-the-badge&logo=github" alt="Music recommendation repository link" />
+        </a>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Apache%20Spark-Scalable%20Processing-e11d48?style=flat-square" alt="Spark badge" />
         <img src="https://img.shields.io/badge/Streamlit-Realtime%20UI-8b5cf6?style=flat-square" alt="Streamlit badge" />
@@ -87,18 +104,24 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/whitevshadow?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-More%20Projects-2563eb?style=for-the-badge&logo=github" alt="Explore more projects" />
+  </a>
+</p>
+
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitevshadow&theme=react-dark&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitevshadow&theme=react-dark&area=true&hide_border=true" alt="GitHub contribution activity graph for whitevshadow" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whitevshadow/AnishBochare/output/github-snake-dark.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/whitevshadow/AnishBochare/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whitevshadow/whitevshadow/output/github-snake-dark.svg" />
+    <img alt="Animated GitHub contribution snake for whitevshadow" src="https://raw.githubusercontent.com/whitevshadow/whitevshadow/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -107,27 +130,30 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="400" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=whitevshadow&theme=radical&hide_border=true" width="400" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="400" alt="GitHub stats card showing contributions, stars, and activity" />
+  <img src="https://streak-stats.demolab.com?user=whitevshadow&theme=radical&hide_border=true" width="400" alt="GitHub streak card for whitevshadow" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whitevshadow&theme=github_dark" alt="GitHub profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whitevshadow&theme=github_dark" alt="GitHub profile details summary for whitevshadow" />
 </p>
 
 ---
 
 ## 🧠 Top Skills
 
-- 🐍 **Python** - 60%
-- 🧠 **LLMs and LangChain** - 25%
+- 🐍 **Python**
+- 🧠 **LLMs, LangChain, and RAG**
+- 👁️ **Computer Vision (YOLOv8, OpenCV)**
+- 📊 **Data Processing and Recommender Systems (Spark)**
+- 🌐 **Full Stack Development (HTML, CSS, JS, Django, React)**
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whitevshadow&theme=onedark&no-frame=true&row=1&margin-w=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=whitevshadow&theme=onedark&no-frame=true&row=1&margin-w=10" alt="GitHub trophies earned by whitevshadow" />
 </p>
 
 ---
@@ -135,5 +161,5 @@
 > _"The future belongs to those who build it."_ - Tony Stark
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" alt="Animated blue footer wave banner" />
 </p>
