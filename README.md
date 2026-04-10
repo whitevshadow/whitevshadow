@@ -1,9 +1,38 @@
-<h1 align="center">Anish Bochare</h1>
-<h3 align="center">B.Tech Computer Science Student | AI, Generative AI, and Scalable Systems</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=190&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header banner" />
+</p>
+
+<h1 align="center">
+  Hi 🤍, I'm Anish Bochare <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M0bmZmbnBobXZrb2JpZ2NzbGY1dmRncnU0Y3VvN2R0bmQ2ZmJ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3pp9Y6LxBvoI/giphy.gif" width="45" height="45" alt="Waving hand" />
+</h1>
+<h3 align="center">🚀 AI/ML Developer | 💻 Full Stack Enthusiast</h3>
 
 <p align="center">
-  Moshi, Pune, Maharashtra, India | anishbochare@gmail.com
+  <img src="https://komarev.com/ghpvc/?username=anishbochare&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views anishbochare" />
+  <img src="https://komarev.com/ghpvc/?username=whitevshadow&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views whitevshadow" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=465&lines=AI+%2F+ML+Developer;Flutter+%7C+LLMs+%7C+Computer+Vision;Building+J.A.R.V.I.S+Assistant;Let%27s+Create+Together+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Building-J.A.R.V.I.S%20Assistant-0ea5e9?style=for-the-badge" alt="Currently building" />
+  <img src="https://img.shields.io/badge/Open%20To-AI%2FML%20Collaboration-16a34a?style=for-the-badge" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20LLMs-f97316?style=for-the-badge" alt="Current focus" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning: `Flutter`, `YOLOv8`, `LangChain`, `LLM Fine-tuning`, `CyberSecurity`, `Big Data`
+- 🤝 Open to collaborating on AI/ML and Full Stack projects
+- 💬 Ask me about: `Python`, `LLMs`, `Computer Vision`, `AI and ML`
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/whitevshadow" target="_blank">
@@ -15,115 +44,55 @@
   <a href="mailto:anishbochare@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail" />
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-Available-lightgrey?style=for-the-badge" alt="Portfolio" />
 </p>
 
 ---
 
-## Professional Summary
-
-B.Tech Computer Science student with strong interest in artificial intelligence, generative AI, and scalable systems. Experienced in Python, AI/ML, and backend development, with a passion for building intelligent applications and real-world solutions.
-
----
-
-## Experience
-
-### Intern - Generative AI Engineer | NeuLeap AI Private Ltd., Pune
-Jan 2026 - Jun 2026
-
-- Selected to work on generative AI and AI-driven systems for real-world applications.
-- Assisted in development, testing, and documentation of AI models and workflows.
-- Collaborated with senior engineers on research and implementation of production-level AI solutions.
-
-### Web Development Intern | Elite Softwares (Remote)
-Aug 2022
-
-- Built dynamic web pages using HTML, CSS, and JavaScript.
-- Ensured mobile responsiveness and cross-browser compatibility.
-
----
-
-## Projects
-
-### Multi-Source Agentic Q&A Assistant (RAG + LangGraph + MCP)
-Tech: Python, LangGraph, SQL, ChromaDB, Streamlit
-
-- Built an advanced agentic AI system that retrieves and reasons over multiple data sources using Retrieval-Augmented Generation (RAG).
-- Integrated LangGraph for multi-step reasoning workflows and MCP tools for dynamic task execution.
-- Enabled contextual Q&A across structured and unstructured data, improving response accuracy and decision flow.
-
-### Music Recommendation System (Big Data)
-Tech: Python, Apache Spark, Streamlit
-
-- Designed a scalable recommendation engine using Apache Spark for large-scale data processing.
-- Built data pipelines to analyze user preferences and generate personalized recommendations.
-- Developed an interactive UI using Streamlit for real-time recommendations.
-
-### AI Jarvis (Voice Assistant)
-Tech: Python, NLP
-
-- Created a voice-controlled assistant capable of executing system commands and automating daily tasks.
-- Integrated NLP techniques for natural language understanding and command execution.
-
-### GenMap AI - Procedural Game Map Generation Framework
-Tech: Unreal Engine 5, BSP, Cellular Automata
-
-- Developed a procedural generation framework for scalable 3D game maps.
-- Utilized BSP and Cellular Automata algorithms to ensure consistency and customization.
-- Enabled designers to generate repeatable environments efficiently within Unreal Engine.
-
----
-
-## Patent
-
-### A System and Method for Dynamic Detection and Backup of Data from Thumb Drives
-
-- Indian Patent Application No. 202521057352 A
-- Filed: 15 June 2025
-- Published: 05 December 2025
-- Co-inventor of an automated system that detects registered USB devices and performs real-time, incremental data backups with optional encryption, integrity verification, and secure device authentication.
-
----
-
-## Technical Skills
-
-- Languages: Python, C, SQL
-- Web: HTML, CSS, Bootstrap, Django
-- AI/ML: Artificial Intelligence, Machine Learning, NLP, Generative AI
-- Data and Cloud: DBMS, Big Data, Hadoop, NoSQL
-- Game Tech: Unreal Engine 5, Procedural Generation
-- Tools: Git, GitHub, VS Code
-- Soft Skills: Problem Solving, Teamwork, Communication
-
----
-
-## Education
-
-- B.Tech in Computer Science, MIT World Peace University (Expected June 2026), CGPA: 7.22 / 10.0
-- Diploma in Information Technology, MIT World Peace University (June 2023), Percentage: 83%
-
----
-
-## Certifications
-
-- Machine Learning - Coursera
-- Google Cybersecurity Professional - Coursera
-- Python Programming - DiSHA Computer Institute
-- Oracle Cloud Infrastructure Generative AI (In Progress)
-
----
-
-## Activities
-
-- Hackathon finalist; developed working prototypes under strict deadlines.
-- Active contributor to open-source and personal GitHub projects.
-
----
-
-## GitHub Analytics
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitevshadow&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=python,js,flutter,tensorflow,opencv,html,css,react,django,git,github,vscode&perline=6" alt="Tech stack icons" />
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 J.A.R.V.I.S AI Assistant</h3>
+      <p align="center">Human-like assistant using voice, gestures, and emotional context.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-2563eb?style=flat-square" alt="YOLOv8 badge" />
+        <img src="https://img.shields.io/badge/LangChain-RAG%20Pipelines-0f766e?style=flat-square" alt="LangChain badge" />
+        <img src="https://img.shields.io/badge/Python-LLM%20Workflows-f59e0b?style=flat-square" alt="Python badge" />
+      </p>
+      <p align="center">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZsZ25udXV3enM5eHFkaHdzeGt5ZnluN3lzY3Ywd3FlOWZ5Mjl2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yGjHDd32JUiUo/giphy.gif" width="300" alt="Jarvis gif" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎵 Music Recommendation System</h3>
+      <p align="center">Big-data recommender system built for large-scale preference analysis.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Apache%20Spark-Scalable%20Processing-e11d48?style=flat-square" alt="Spark badge" />
+        <img src="https://img.shields.io/badge/Streamlit-Realtime%20UI-8b5cf6?style=flat-square" alt="Streamlit badge" />
+        <img src="https://img.shields.io/badge/Python-Data%20Pipelines-22c55e?style=flat-square" alt="Python data badge" />
+      </p>
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whitevshadow&theme=github_dark" width="300" alt="Repo language chart" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitevshadow&theme=react-dark&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 <p align="center">
@@ -133,11 +102,38 @@ Tech: Unreal Engine 5, BSP, Cellular Automata
   </picture>
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="400" height="300" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=whitevshadow&theme=radical&hide_border=true" width="400" height="143" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whitevshadow&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="400" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=whitevshadow&theme=radical&hide_border=true" width="400" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whitevshadow&theme=onedark&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whitevshadow&theme=github_dark" alt="GitHub profile details" />
+</p>
+
+---
+
+## 🧠 Top Skills
+
+- 🐍 **Python** - 60%
+- 🧠 **LLMs and LangChain** - 25%
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=whitevshadow&theme=onedark&no-frame=true&row=1&margin-w=10" alt="GitHub trophies" />
+</p>
+
+---
+
+> _"The future belongs to those who build it."_ - Tony Stark
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" alt="Footer banner" />
 </p>
